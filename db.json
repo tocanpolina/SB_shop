@@ -37,7 +37,7 @@
       "description": "Chocoate bar with milk.",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/kinder.png"
+      "photo_url": "https://raw.githubusercontent.com/tocanpolina/SB_shop/main/img/kinder.png"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
       "description": "Chocolate covered wafer",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/kitkat.png"
+      "photo_url": "https://raw.githubusercontent.com/tocanpolina/SB_shop/main/img/kitkat.png"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "description": "Chocolate with caramel filling.",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/milkyway.png"
+      "photo_url": "https://raw.githubusercontent.com/tocanpolina/SB_shop/main/img/milkyway.png"
     },
     {
       "id": 5,
@@ -61,15 +61,15 @@
       "description": "Chocolate with various fillings",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/milka.png"
+      "photo_url": "https://raw.githubusercontent.com/tocanpolina/SB_shop/main/img/milka.png"
     },
     {
       "id": 6,
-      "name": "7-Segment Display",
-      "description": "Epic.",
+      "name": "Twix",
+      "description": "Chocolate with caramel and wafers",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+      "photo_url": "https://raw.githubusercontent.com/tocanpolina/SB_shop/main/img/twix.png"
     }
   ]
 }
