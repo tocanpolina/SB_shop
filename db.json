@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
+      "name": "Milka",
+      "description": "Chocolate with various fillings.",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/milka.png"
     },
     {
       "id": 5,
