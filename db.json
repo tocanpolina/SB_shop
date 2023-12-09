@@ -33,11 +33,11 @@
     },
     {
       "id": 2,
-      "name": "Arduino UNO",
-      "description": "Brand new and high quality.",
+      "name": "Kinder",
+      "description": "Chocoate bar with milk.",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/kinder.png"
     },
     {
       "id": 3,
