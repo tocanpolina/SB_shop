@@ -41,11 +41,11 @@
     },
     {
       "id": 3,
-      "name": "ESP8266 5V",
-      "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+      "name": "Kitkat",
+      "description": "Chocolate covered wafer",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/kitkat.png"
     },
     {
       "id": 4,
