@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "Milka",
-      "description": "Chocolate with various fillings.",
+      "name": "Milkyway",
+      "description": "Chocolate with caramel filling.",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/milka.png"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/milkyway.png"
     },
     {
       "id": 5,
